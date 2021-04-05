@@ -1,5 +1,7 @@
 # NanoVNA_V2Plus_Original
-Software interfaces for the Original NanoVNA, the V2+ and V2+4. 
+MS Windows software interfaces for the NanoVNA 
+
+Supports the orginal NanoVNA, the V2+ and V2+4 
 
 READ THE MANUAL BEFORE ATTEMPTING TO INSTALL AND USE THIS SOFTWARE
 
