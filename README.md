@@ -8,6 +8,8 @@ READ THE MANUAL BEFORE ATTEMPTING TO INSTALL AND USE THIS SOFTWARE
 
 Demonstrating the use of this software with the NanoVNA V2 Plus 4: https://www.youtube.com/watch?v=XaYBpPCo1qk
 
+NanoVNA Software Enhancements (ESR, Crystals & RADAR): https://www.youtube.com/watch?v=scZ3kZ4Q2sQ
+
 Demonstrating the orignal NanoVNA during the early stages of the software development: https://www.youtube.com/watch?v=mKi6s3WvBAM&list=PLZSS2ajxhiQD2gftdurGQoyGpUM_HobNI
 
 Using the software to create models for SPICE: https://www.youtube.com/watch?v=v01lSgWo904&list=PLZSS2ajxhiQD2gftdurGQoyGpUM_HobNI&index=2
