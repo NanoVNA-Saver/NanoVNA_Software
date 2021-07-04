@@ -2,7 +2,7 @@
 
 Windows interface for the NanoVNA 
 
-Supports the orginal NanoVNA, the V2+ and V2+4 (Note there is a seperate branch for each VNA. If you are installing the first time, use the the main release.  This is a spanned ZIP file.)
+Supports the orginal NanoVNA, the V2+ and V2+4 (Note there is a seperate branch for each VNA. If you are installing the first time, use the the main release.  This is a spanned ZIP file.  I use 7-ZIP.)
 
 READ THE MANUAL BEFORE ATTEMPTING TO INSTALL AND USE THIS SOFTWARE
 
